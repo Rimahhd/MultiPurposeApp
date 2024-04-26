@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Multi Purpose App</string>
+    <string name="name">Name</string>
+    <string name="login_btnlogin">Login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="dash_btnweather">Weather</string>
+    <string name="updateButton">Refresh</string>
+    <string name="wth_TempTextView">Temperature</string>
+    <string name="wth_HumTextView">Humidity</string>
+    <string name="city_name">Current City</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="condition">Condition</string>
+    <string name="time">Time</string>
+    <string name="_20">20</string>
+    <string name="WindSpeed">13</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">cfc30558e6d584c1ad0e3d4f2ac27633</string>
+    <string name="dash_BtnContacts">Contacts</string>
+    <string name="MailTo">To</string>
+    <string name="MailSubject">Subject</string>
+    <string name="MailMessage">Message</string>
+    <string name="MailBtn">Send</string>
+    <string name="dash_MailBtn">Mail</string>
+    <string name="mail_temptv">Sending returns authentication error, fix: javax.mail.AuthenticationFailedException</string>
+    <string name="hourly_weather_forecast">Hourly Weather Forecast</string>
+</resources>
